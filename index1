@@ -1,0 +1,57 @@
+<html>
+
+<head>
+<title>Summer Website</title>
+<link href="style.css" rel="stylesheet" type="text/css">
+</head>
+
+<body>
+
+
+  <header>
+
+<div id="particles-js">
+
+
+    <div  class="row">
+      <div class ="logo">
+        <img src="https://i.imgur.com/0PyA8HR.png" alt="">
+        </div>
+
+      <ul class="main-nav">
+        <li class ="active"> <a href="">HOME</a> </li>
+
+                <li> <a href="">ABOUT</a> </li>
+                  <li> <a href="">PORTFOLIO</a> </li>
+        </ul>
+        </div>
+
+        <div class="hero">
+
+        <h1>ARE YOU READY?</h1>
+
+        <div class="button">
+          <a href="" class="btn btn-one"> FUN BUTTON </a>
+          <a href="" class="btn btn-two"> OFF </a>
+</div>
+
+        </div>
+
+
+</div>
+
+  </header>
+
+
+
+      <!--particles js file -->
+
+<!-- <h1> TEST </h1> -->
+<script type="text/javascript" src="js/particles.min.js"></script>
+<script type="text/javascript" src="js/app.js"></script>
+</body>
+
+
+
+
+</html>
