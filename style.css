@@ -195,6 +195,7 @@ border-radius: 0%;
   /* background-color: rgb(255, 255, 255); */
 
   background-color: rgb(206, 222, 229);
+
   width: 30%;
   height: 300px;
   margin-left: 2%;
@@ -217,6 +218,15 @@ border-radius: 0%;
   height: 20%;
   float: left; */
 
+}
+
+#box:hover{
+background-color: darkorange;
+transition: all 0.5s ease-in;
+}
+#box h2:hover{
+background-color: darkorange;
+transition: all 0.5s ease-in;
 }
 
 #box h2{
