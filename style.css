@@ -29,8 +29,7 @@ header
 body
 {
   font-family: monospace;
-  padding: 0;
-margin: 0;
+
 }
 
 
@@ -88,15 +87,21 @@ background-color: darkorange;
 transition: all 0.5s ease-in;
 }
 
-html,body{
-/*   width: 100%;
-  height: 100%; */
+
+body {
+/* padding: 0;
+margin: 0; */
+}
+
+/* html,body{
+  width: 100%;
+  height: 100%;
   margin: 0px;
   padding: 0px;
-/*    overflow-y: auto;
-  overflow-x: hidden;  */
+   overflow-y: auto;
+  overflow-x: hidden;
 
-}
+} */
 
 #page_2{
 
@@ -566,7 +571,11 @@ text-align: center;
     float: right;
   }
 
+nav{
+  padding: 0;
+  margin: 0;
 
+}
 
 
 #nav ul{
